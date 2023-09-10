@@ -26,7 +26,5 @@ int main()
     cout<<"\nQFA: "<<qaf;
     cout<<"\nÁrea = "<< a;
 
-    
-
     return 0;
 }
