@@ -12,6 +12,5 @@ int main(int argc, char** agrv) {
     }
     std::cout<<"\nValue of x out of scope "<<x;
 
-
     return 0;
 }
